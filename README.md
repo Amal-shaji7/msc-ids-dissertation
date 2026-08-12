@@ -231,12 +231,12 @@ msc-ids-dissertation/
 ├── README.md
 ├── Unified_IDS.ipynb
 └── results/
-    ├── hard_voting_classification_report.png
-    ├── soft_voting_classification_report.png
-    ├── feature_importance_rf.png
-    ├── feature_importance_lasso.png
-    ├── feature_importance_univariate.png
-    └── correlation_matrix.png
+    ├── Correlation_Matrix.png
+    ├── Hard_Voting(VC1)
+    ├── Lasso_Importance_score.png
+    ├── Random_Forest_Feature_Importance.png
+    ├── Soft_Voting(VC2).png
+    └── Univariate_Feature_Importance.png
 ```
 
 ---
