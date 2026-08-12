@@ -209,7 +209,7 @@ approach.
 ```
 msc-ids-dissertation/
 ├── README.md
-├── ids_research.py
+├── Unified_IDS.ipynb
 └── results/
     ├── hard_voting_classification_report.png
     ├── soft_voting_classification_report.png
