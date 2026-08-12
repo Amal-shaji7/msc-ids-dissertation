@@ -94,6 +94,19 @@ were applied and their results combined:
 computationally efficient dataset for
 model training.
 
+**Random Forest Feature Importance:**
+![Random Forest Feature Importance](results/feature_importance_rf.png)
+
+**Lasso Feature Importance:**
+![Lasso Feature Importance](results/feature_importance_lasso.png)
+
+**Univariate (ANOVA) Feature Importance:**
+![Univariate Feature Importance](results/feature_importance_univariate.png)
+
+**Correlation Matrix:**
+![Correlation Matrix](results/correlation_matrix.png)
+
+
 **Supervised Model Evaluation**
 
 Five models were evaluated using default 
@@ -143,6 +156,13 @@ requiring unanimous agreement across all
 three models, significantly reduces false 
 positives and enhances resilience against 
 unknown attack patterns.
+
+
+**Hard Voting Classification Report:**
+![Hard Voting Classification Report](results/hard_voting_classification_report.png)
+
+**Soft Voting Classification Report:**
+![Soft Voting Classification Report](results/soft_voting_classification_report.png)
 
 ---
 
