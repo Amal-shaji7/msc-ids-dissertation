@@ -95,16 +95,16 @@ computationally efficient dataset for
 model training.
 
 **Random Forest Feature Importance:**
-![Random Forest Feature Importance](results/feature_importance_rf.png)
+![Random Forest Feature Importance](results/Random_Forest_Feature_Importance.png)
 
 **Lasso Feature Importance:**
-![Lasso Feature Importance](results/feature_importance_lasso.png)
+![Lasso Feature Importance](results/Lasso_Importance_score.png)
 
 **Univariate (ANOVA) Feature Importance:**
-![Univariate Feature Importance](results/feature_importance_univariate.png)
+![Univariate Feature Importance](results/Univariate_Feature_Importance.png)
 
 **Correlation Matrix:**
-![Correlation Matrix](results/correlation_matrix.png)
+![Correlation Matrix](results/Correlation_Matrix.png)
 
 
 **Supervised Model Evaluation**
@@ -159,10 +159,10 @@ unknown attack patterns.
 
 
 **Hard Voting Classification Report:**
-![Hard Voting Classification Report](results/hard_voting_classification_report.png)
+![Hard Voting Classification Report](results/Hard_Voting(VC1).png)
 
 **Soft Voting Classification Report:**
-![Soft Voting Classification Report](results/soft_voting_classification_report.png)
+![Soft Voting Classification Report](results/Soft_Voting(VC2).png)
 
 ---
 
